@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img width="2000" height="1060" alt="image" src="https://github.com/user-attachments/assets/309c9114-a9c4-4712-90bd-dd6592e49052" height="30" alt="php logo" />
+  <img width="30" height="1060" alt="image" src="https://github.com/user-attachments/assets/309c9114-a9c4-4712-90bd-dd6592e49052" height="30" alt="php logo" />
   <img width="12" />
 
 </div>
