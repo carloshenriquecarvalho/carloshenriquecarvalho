@@ -1,4 +1,4 @@
-<h1 align="left">```System.out.println("Heyou, programmer!");```</h1>
+<h1 align="left"><code>System.out.println("Heyou, programmer!");<code></h1>
 
 ###
 
