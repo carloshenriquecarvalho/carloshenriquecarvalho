@@ -1,8 +1,8 @@
-<h1 align="left">Hey, what's up?</h1>
+<h1 align="left">```System.out.println("Heyou, programmer!");```</h1>
 
 ###
 
-<p align="left">I'm a self-motivated Computer Engineering student and aspiring Backend Developer based in Brasília, Brazil. 🇧🇷</p>
+<p align="left">Sou estudande de Computação apaixonado por desenvovler sistemas com criativade e estabilidade residente de Brasília, Brasil. 🇧🇷</p>
 
 ###
 
