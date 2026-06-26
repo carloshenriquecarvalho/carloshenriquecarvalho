@@ -1,27 +1,27 @@
-<h1 align="left"><code>System.out.println("Heyou, programmer!");</code></h1>
+System.out.println("Hello, World! 👋");
 
-###
+# Olá! Eu sou o Carlos Henrique.
 
-<h2 align="left">Quem sou</h2>
+Sou estudante de Ciência da Computação e desenvolvedor com foco em Backend e Engenharia de Software.
 
-###
+Tenho grande interesse por arquitetura de software, desenvolvimento de APIs REST, bancos de dados e construção de sistemas escaláveis. Gosto de entender como as aplicações funcionam por trás das interfaces e de desenvolver soluções robustas para problemas reais.
 
-<p align="left">Sou estudante de Computação apaixonado por desenvolver e criar sistemas estáveis e que ajudem outras pessoas. Tenho 19 anos e curso Bacharelado em Ciência da Computação na Uninter de Taguatinga, DF. Foco no estudo e aprimoramento em desevolvimento de software e sistemas web inteligentes com Java, Angular e Python. Desenvolvi projetos comerciais com Next.js e pessoais/cases de estudo em Java e Angular. Além de construir API's RESTful, também desenvolvo arquitetura de microserviços, principalmente com o foco de aplicar IA (Inteligências Artificiais) aos meus projetos para análise de dados e projeções. Essas IAs são todas contruídas a parte em Python e scikit-learn.</p>
+Recentemente desenvolvi uma plataforma completa de ensino (LMS), sendo responsável pela modelagem do banco de dados, desenvolvimento da API, autenticação JWT, frontend e deploy da aplicação.
 
-###
+Atualmente estudo principalmente o ecossistema Java com Spring Boot, enquanto também desenvolvo aplicações utilizando TypeScript, Node.js, React e Next.js.
 
-<h2 align="left">Linguagens:</h2>
+Além do desenvolvimento web, tenho interesse em Inteligência Artificial, Machine Learning e Ciência de Dados, áreas que pretendo integrar aos meus projetos futuramente.
 
-###
+## Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+☕ Java • Spring Boot
 
-###
+⚡ TypeScript • Node.js
+
+⚛ React • Next.js
+
+🐘 PostgreSQL • MySQL • MongoDB
+
+🔐 JWT • Prisma ORM • Spring Data JPA
+
+🐳 Docker • Git • GitHub
