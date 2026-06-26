@@ -26,8 +26,6 @@ Além do desenvolvimento web, tenho interesse em Inteligência Artificial, Machi
 
 🐳 Docker • Git • GitHub
 
-
-"Primeiro faça funcionar. Depois faça funcionar bem. Então faça funcionar rápido."
 ## Projetos em destaque
 
 📚 LMS - Learning Management System
@@ -38,3 +36,6 @@ Sistema para gerenciamento de clientes e métricas comerciais.
 
 🌐 Portfolio
 (em breve)
+
+
+"Primeiro faça funcionar. Depois faça funcionar bem. Então faça funcionar rápido."
