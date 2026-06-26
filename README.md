@@ -25,3 +25,16 @@ Além do desenvolvimento web, tenho interesse em Inteligência Artificial, Machi
 🔐 JWT • Prisma ORM • Spring Data JPA
 
 🐳 Docker • Git • GitHub
+
+
+"Primeiro faça funcionar. Depois faça funcionar bem. Então faça funcionar rápido."
+## Projetos em destaque
+
+📚 LMS - Learning Management System
+Sistema completo de ensino online desenvolvido com Next.js, TypeScript, PostgreSQL, Prisma e JWT.
+
+💼 CRM Interno
+Sistema para gerenciamento de clientes e métricas comerciais.
+
+🌐 Portfolio
+(em breve)
