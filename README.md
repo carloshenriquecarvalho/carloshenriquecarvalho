@@ -14,16 +14,16 @@ Hoje atuo como desenvolvedor Full Stack construindo solucoes proprietarias na Pi
 
 ## Tecnologias
 
-☕ Java | Spring Boot
-⚡ TypeScript | Node.js
+ Java | Spring Boot
+ TypeScript | Node.js
 
-⚛ React | Next.js
+ React | Next.js
 
-🐘 PostgreSQL | MySQL | MongoDB
+ PostgreSQL | MySQL | MongoDB
 
-🔐 JWT | Prisma ORM | Spring Data JPA
+ JWT | Prisma ORM | Spring Data JPA
 
-🐳 Docker | Git | GitHub
+ Docker | Git | GitHub
 
 ## Projetos em destaque
 
@@ -33,7 +33,7 @@ Sistema completo de ensino online desenvolvido com Next.js, TypeScript, PostgreS
 CRM Interno
 Sistema para gerenciamento de clientes e métricas comerciais.
 
-🌐 Portfolio
+ Portfolio
 (em breve)
 
 
