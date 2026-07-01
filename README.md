@@ -1,5 +1,3 @@
-System.out.println("Hello, World! 👋");
-
 # Olá! Eu sou o Carlos Henrique.
 
 Sou estudante de Ciência da Computação e desenvolvedor com foco em Backend e Engenharia de Software.
@@ -12,26 +10,27 @@ Atualmente estudo principalmente o ecossistema Java com Spring Boot, enquanto ta
 
 Além do desenvolvimento web, tenho interesse em Inteligência Artificial, Machine Learning e Ciência de Dados, áreas que pretendo integrar aos meus projetos futuramente.
 
+Hoje atuo como desenvolvedor Full Stack construindo solucoes proprietarias na Pimenta Estetica.
+
 ## Tecnologias
 
-☕ Java • Spring Boot
+☕ Java | Spring Boot
+⚡ TypeScript | Node.js
 
-⚡ TypeScript • Node.js
+⚛ React | Next.js
 
-⚛ React • Next.js
+🐘 PostgreSQL | MySQL | MongoDB
 
-🐘 PostgreSQL • MySQL • MongoDB
+🔐 JWT | Prisma ORM | Spring Data JPA
 
-🔐 JWT • Prisma ORM • Spring Data JPA
-
-🐳 Docker • Git • GitHub
+🐳 Docker | Git | GitHub
 
 ## Projetos em destaque
 
-📚 LMS - Learning Management System
+LMS - Learning Management System
 Sistema completo de ensino online desenvolvido com Next.js, TypeScript, PostgreSQL, Prisma e JWT.
 
-💼 CRM Interno
+CRM Interno
 Sistema para gerenciamento de clientes e métricas comerciais.
 
 🌐 Portfolio
