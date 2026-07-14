@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I'm a **Computer Science student** and **Full Stack Developer** with a strong focus on **Backend Development** and **Software Engineering**.
 
