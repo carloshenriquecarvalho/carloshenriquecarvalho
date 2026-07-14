@@ -1,40 +1,67 @@
-# Olá! Eu sou o Carlos Henrique.
+# Hi there! 👋
 
-Sou estudante de Ciência da Computação e desenvolvedor com foco em Backend e Engenharia de Software.
+I'm a **Computer Science student** and **Full Stack Developer** with a strong focus on **Backend Development** and **Software Engineering**.
 
-Tenho grande interesse por arquitetura de software, desenvolvimento de APIs REST, bancos de dados e construção de sistemas escaláveis. Gosto de entender como as aplicações funcionam por trás das interfaces e de desenvolver soluções robustas para problemas reais.
+I'm passionate about designing scalable systems, building REST APIs, modeling relational databases, and understanding how software works under the hood. I enjoy solving real-world problems by creating reliable and maintainable applications.
 
-Recentemente desenvolvi uma plataforma completa de ensino (LMS), sendo responsável pela modelagem do banco de dados, desenvolvimento da API, autenticação JWT, frontend e deploy da aplicação.
+Recently, I built a complete **Learning Management System (LMS)**, where I was responsible for the database design, backend API, JWT authentication, frontend development, and deployment.
 
-Atualmente estudo principalmente o ecossistema Java com Spring Boot, enquanto também desenvolvo aplicações utilizando TypeScript, Node.js, React e Next.js.
+Currently, I'm focused on the **Java ecosystem**, primarily **Spring Boot**, while also developing applications using **TypeScript, Node.js, React, and Next.js**.
 
-Além do desenvolvimento web, tenho interesse em Inteligência Artificial, Machine Learning e Ciência de Dados, áreas que pretendo integrar aos meus projetos futuramente.
+Beyond web development, I'm interested in **Artificial Intelligence, Machine Learning, and Data Science**, which I plan to integrate into future projects.
 
-Hoje atuo como desenvolvedor Full Stack construindo solucoes proprietarias na Pimenta Estetica.
+I'm currently working as a **Full Stack Developer** at **Pimenta Estética**, building proprietary business solutions, internal systems, and data integration tools.
 
-## Tecnologias
+## Technologies
 
- Java | Spring Boot
- TypeScript | Node.js
+**Languages**
 
- React | Next.js
+* Java
+* TypeScript
+* JavaScript
+* Python
+* C
 
- PostgreSQL | MySQL | MongoDB
+**Backend**
 
- JWT | Prisma ORM | Spring Data JPA
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* Node.js
+* REST APIs
+* JWT
 
- Docker | Git | GitHub
+**Frontend**
 
-## Projetos em destaque
+* React
+* Next.js
 
-LMS - Learning Management System
-Sistema completo de ensino online desenvolvido com Next.js, TypeScript, PostgreSQL, Prisma e JWT.
+**Databases**
 
-CRM Interno
-Sistema para gerenciamento de clientes e métricas comerciais.
+* PostgreSQL
+* MySQL
+* MongoDB
+* Prisma ORM
 
- Portfolio
-(em breve)
+**Tools**
 
+* Docker
+* Git
+* GitHub
 
-"Primeiro faça funcionar. Depois faça funcionar bem. Então faça funcionar rápido."
+## Featured Projects
+
+### 🎓 Learning Management System (LMS)
+
+A complete online learning platform built with **Next.js, TypeScript, PostgreSQL, Prisma ORM, and JWT authentication**.
+
+### 📊 Enterprise CRM
+
+An internal CRM platform for customer management, business metrics, and process automation, developed with **Java, Spring Boot, PostgreSQL, and Docker**.
+
+### 🌐 Portfolio
+
+Coming soon.
+
+> *"First make it work. Then make it right. Then make it fast."*
