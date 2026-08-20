@@ -12,43 +12,6 @@ Beyond web development, I'm interested in **Artificial Intelligence, Machine Lea
 
 I'm currently working as a **Full Stack Developer** at **Pimenta Estética**, building proprietary business solutions, internal systems, and data integration tools.
 
-## Technologies
-
-**Languages**
-
-* Java
-* TypeScript
-* JavaScript
-* Python
-* C
-
-**Backend**
-
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* Node.js
-* REST APIs
-* JWT
-
-**Frontend**
-
-* React
-* Next.js
-
-**Databases**
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Prisma ORM
-
-**Tools**
-
-* Docker
-* Git
-* GitHub
 
 ## Featured Projects
 
