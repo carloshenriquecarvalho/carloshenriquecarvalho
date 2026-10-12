@@ -9,9 +9,9 @@ I'm an aspiring software engineer developer from Brazil. Computer Science studen
 
 ---
 Main technologies:
-<img width="20" height="288" alt="image" src="https://github.com/user-attachments/assets/5bdc919c-3148-4fc5-b2dc-27d90b7767cf" />
-<img width="20" height="288" alt="image" src="https://github.com/user-attachments/assets/81435096-4a5e-41cb-bfcc-123b4faf37e6" />
-<img width="20" height="288" alt="image" src="https://github.com/user-attachments/assets/ddd52d11-f3f3-4447-a3cc-b36e53b0c836" />
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/5bdc919c-3148-4fc5-b2dc-27d90b7767cf" />
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/81435096-4a5e-41cb-bfcc-123b4faf37e6" />
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/ddd52d11-f3f3-4447-a3cc-b36e53b0c836" />
 
 
 
