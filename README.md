@@ -1,27 +1,18 @@
-# Hi there!
+Hi, I am Carlos Henrique, but you can call me **Rick**!
 
-I'm a **Computer Science student** and **Full Stack Developer** with a strong focus on **Backend Development** and **Software Engineering**.
+I'm an aspiring software engineer developer from Brazil. Computer Science student since 2025 <3
 
-I'm passionate about designing scalable systems, building REST APIs, modeling relational databases, and understanding how software works under the hood. I enjoy solving real-world problems by creating reliable and maintainable applications.
+**Passionate about computer, software engineering, and good times at video games**
+* Aiming to my very first occupation in field
+* Learning backend technologies and computer fundamentals
+* Working with Data Analysis
 
-Recently, I've been buiding a complete **Proprietary Sales Control System**, where I am responsible for the database design, backend API, frontend development, and internal deployment.
-
-Currently, I'm focused on the **Java ecosystem**, primarily **Spring Boot**, while also developing applications using **Thymeleaf, CSS, JavaScript, and Docker**.
-
-Beyond web development, I'm interested in **Artificial Intelligence, Machine Learning, and Data Science**, which I plan to integrate into future projects.
-
-I'm currently working as a **Full Stack Developer** at **Pimenta Estética**, building proprietary business solutions, internal systems, and data integration tools.
-
-
-## Featured Projects
-
-### Sales Control for Internal Dashboards
-
-A complete and proprietary sales control system for Dashboard and data visualization improvement.
+---
+Main technologies:
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/5bdc919c-3148-4fc5-b2dc-27d90b7767cf" />
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/81435096-4a5e-41cb-bfcc-123b4faf37e6" />
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/ddd52d11-f3f3-4447-a3cc-b36e53b0c836" />
 
 
-### 🌐 Portfolio
-
-Coming soon.
 
 > *"First make it work. Then make it right. Then make it fast."*
